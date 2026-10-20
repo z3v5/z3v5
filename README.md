@@ -5,7 +5,7 @@
   file as its README.md. GitHub will render it on your profile page.
 -->
 
-<h1 align="center">Hi, I'm &lt;Sergei&gt; 👋</h1>
+<h1 align="center">Hi, I'm Sergei 👋</h1>
 
 <p align="center">
   🛡️ Penetration tester by trade &nbsp;·&nbsp;
