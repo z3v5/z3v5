@@ -73,6 +73,9 @@ Slide decks & recordings of past talks: [2600Malmo/2600-Archive](https://github.
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Threat%20Modelling-212C42" />
+  <img src="https://img.shields.io/badge/AI%20Red%20Teaming-212C42" />
+  <img src="https://img.shields.io/badge/LLM%20Security-212C42" />
 </p>
 
 **OSS fuzzing & dev**
@@ -87,4 +90,4 @@ Slide decks & recordings of past talks: [2600Malmo/2600-Archive](https://github.
 
 ---
 
-<p align="center"><i>Breaking things responsibly since &lt;19xx&gt;.</i></p>
+<p align="center"><i>Breaking things responsibly since 2019.</i></p>
