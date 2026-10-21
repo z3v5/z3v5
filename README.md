@@ -41,30 +41,48 @@ I founded and host the Malmö chapter of **2600** — a forum for anyone into te
 
 Slide decks & recordings of past talks: [2600Malmo/2600-Archive](https://github.com/2600Malmo/2600-Archive)
 
-### 🧰 Tools & stack
-
-<p>
-  <img src="https://img.shields.io/badge/Ghidra-grey?logo=ghidra&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDA%20Pro-0059AA?logo=ida&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/YARA-black?logo=yara&logoColor=white" />
-  <img src="https://img.shields.io/badge/AFL%2B%2B-333333" />
-  <img src="https://img.shields.io/badge/GDB-blue" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-</p>
-
 ### 🎓 Certifications
 
 <p>
   <a href="https://www.credential.net/f0c6d44b-91f4-44bf-a70d-af4956fa08c8#acc.i5SRFNH1"><img src="https://img.shields.io/badge/OSCP-Offensive%20Security%20Certified%20Professional-DA2821?style=for-the-badge&logo=offensive-security&logoColor=white" /></a>
   <a href="https://certs.ine.com/0c524b55-fe15-4df0-b5af-3719be0badec#acc.6VlYTJ04"><img src="https://img.shields.io/badge/eWPT-Web%20App%20Penetration%20Tester-4B0082?style=for-the-badge" /></a>
-</p>
-<p>
   <a href="https://certified.tcm-sec.com/3166ad6b-ae8b-4259-a70a-47c26270ca41#acc.uw17W2je"><img src="https://img.shields.io/badge/PMRP-Practical%20Malware%20Research%20Professional-111111?style=for-the-badge" /></a>
   <a href="https://www.credly.com/badges/37937918-5d9d-4c80-aa41-608ba0f45b2f/"><img src="https://img.shields.io/badge/AI1-TryHackMe%20AI%20Security%20L1-212C42?style=for-the-badge&logo=tryhackme&logoColor=66C6AA" /></a>
+</p>
+
+### 🧰 Tools & stack
+
+**Offensive security & web appsec** <sub>(OSCP · eWPT)</sub>
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4" />
+</p>
+
+**Malware analysis & reverse engineering** <sub>(PMRP)</sub>
+<p>
+  <img src="https://img.shields.io/badge/Ghidra-9C27B0" />
+  <img src="https://img.shields.io/badge/IDA%20Pro-0059AA" />
+  <img src="https://img.shields.io/badge/x64dbg-6E4C13" />
+  <img src="https://img.shields.io/badge/YARA-111111" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" />
+</p>
+
+**AI security** <sub>(AI1)</sub>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" />
+</p>
+
+**OSS fuzzing & dev**
+<p>
+  <img src="https://img.shields.io/badge/AFL%2B%2B-333333" />
+  <img src="https://img.shields.io/badge/GDB-4682B4" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 </p>
 
 ---
